@@ -17,8 +17,8 @@ Currently, two official plugins are available:
 ![image](https://github.com/user-attachments/assets/cfa5dff7-a067-4576-8c9a-43987ab94dd6)
 
 5.	Login and Register:
+   
 ![image](https://github.com/user-attachments/assets/166d7023-d2ed-4ee2-b467-a16a2713706e)
-
 ![image](https://github.com/user-attachments/assets/47dbbd7d-fdca-4e41-8e33-d4abe994e640)
 
  
